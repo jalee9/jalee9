@@ -2,7 +2,7 @@
 
 ### 🎓 Educator | 💻 Developer | 🎨 Life-long Learner | 📚 EdD Candidate
 
-Welcome to my GitHub profile! I’m a community college instructor with a passion for teaching the next generation of web developers and IT professionals. I’ve been guiding students through the exciting worlds of technology, development, and beyond since 2013. Currently, I'm also pursuing my **EdD in Educational Leadership**, focusing on the future of online learning and educational innovation.
+I’m a community college instructor with a passion for teaching the next generation of web developers and IT professionals. I’ve been guiding students through the exciting worlds of technology, development, and beyond since 2013. Currently, I'm also pursuing my **EdD in Educational Leadership**, focusing on the future of online learning and educational innovation.
 
 ### 🏫 Where I Teach
 I’m proud to be the **Lead Instructor in the A.A.S Web Development degree program** at **[Wake Tech Community College](https://www.waketech.edu/)**, where I:
