@@ -72,8 +72,8 @@ Everything here is built to be **shared, remixed, and improved**.
 
 ### ✨Team Em Dash Forever
 
-Why? Because an em dash is -
-A pause. A shift. A continuation.
+Why? 
+Because an em dash is-A pause. A shift. A continuation.
 
 > Not just what we build—but how we think while building it.
 
