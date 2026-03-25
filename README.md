@@ -1,48 +1,79 @@
-# 👋 Hello, I'm Jennifer Lee!
+# 👋 Hi, I’m Jennifer Lee
 
-### 🎓 Educator | 💻 Developer | 🎨 Life-long Learner | 📚 EdD Candidate
+### ✦ Educator | ✦ Teaching with AI | ✦ Building Digital Experiences
 
-I’m a community college instructor with a passion for teaching the next generation of web developers and IT professionals. I’ve been guiding students through the exciting worlds of technology, development, and beyond since 2013. Currently, I'm also pursuing my **EdD in Educational Leadership**, focusing on the future of online learning and educational innovation.
+I’m a community college IT instructor exploring what it means to teach, learn, and lead in an AI-augmented world.
 
-### 🏫 Where I Teach
-I’m proud to be the **Lead Instructor in the A.A.S Web Development degree program** at **[Wake Tech Community College](https://www.waketech.edu/)**, where I:
+My work lives at the intersection of **technology, education, and human connection**—where AI supports thinking, not replaces it. I design learning experiences that help students not only write code, but understand how to think, build, and adapt in a rapidly changing digital landscape.
 
-- 💡 Lead and develop curriculum for the next generation of web developers.
-- 🛠️ Oversee course design, focusing on real-world skills and cutting-edge technologies.
-- 🚀 Empower students to build dynamic, database-driven websites and web applications.
-
-### 🧑‍🏫 What I Teach
-I teach a wide range of tech stacks, helping students transform their ideas into digital realities. Here's what you might find me working with:
-
-- **Front-End Development:** HTML, CSS, JavaScript, Bootstrap, React
-- **Back-End Development:** Node.js, Express.js, ASP.NET Core MVC, PHP
-- **Databases:** MySQL, MongoDB, SQL Server
-- **Version Control:** Git & GitHub
-- **Cloud & DevOps:** Azure, AWS, Docker
-- **CMS:** WordPress, Joomla, Drupal
-
-### 🌟 What I’m Up To
-When I’m not in the classroom or grading assignments, I’m:
-
-- 🎥 **Creating Video Lectures:** I love making tech concepts easy to understand.
-- 🧩 **Building Projects:** Experimenting with new tech stacks and teaching methodologies.
-- 📚 **Learning:** Always on the lookout for the latest trends in web development and online education.
-- 🎓 **Pursuing My EdD:** Focused on educational leadership and enhancing the online learning experience.
-
-### 🚀 My GitHub Repositories
-Here, you'll find:
-
-- **Class Demos:** Real-world examples used in my courses.
-- **Student Projects:** Showcasing the brilliant work of my students.
-- **Personal Projects:** Where I explore and build fun applications.
-
-### 📫 How to Reach Me
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/jskinnerlee/)
-
-### 🌍 Let's Code the Future Together!
-
-Thank you for stopping by! Feel free to explore my repos, fork, star, or even contribute to my projects. Let’s build something amazing together! 🚀
+Currently pursuing an **EdD in Educational Leadership**, focused on the future of online learning, student engagement, and human-centered design.
 
 ---
 
-_“The beautiful thing about learning is that nobody can take it away from you.” - B.B. King_
+### — What I Believe
+
+- AI should **enhance learning, not shortcut it**  
+- Students learn best by **building real things that matter**  
+- Teaching is not just content delivery—it’s **presence, clarity, and connection**  
+- The future of education is both **technical and deeply human**  
+
+---
+
+### — What I Do
+
+At **[Wake Tech Community College](https://www.waketech.edu/)**, I:
+
+- Integrate **AI tools (GitHub Copilot, prompt workflows)** into programming courses  
+- Design **project-based, portfolio-driven curriculum**  
+- Create space for students to **experiment, reflect, and iterate**  
+- Bridge the gap between **classroom learning and real-world application**  
+
+---
+
+### — Tech I Teach & Use
+
+- **Front-End:** HTML, CSS, JavaScript, React  
+- **Back-End:** Node.js, Express, ASP.NET Core MVC  
+- **Databases:** SQL Server, MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+- **Cloud:** Azure, AWS  
+- **CMS:** WordPress, WooCommerce, Shopify  
+
+---
+
+### — Current Work
+
+- 🤖 AI + Education (prompting, pair programming, ethical use)  
+- 🎓 Human-centered online teaching practices  
+- 🛠️ Real-world student projects & portfolio design  
+- ✍🏽 Writing & reflection through *Em Dash*  
+- 🎥 Creating approachable, student-first tech content  
+
+---
+
+### — This Space
+
+Think of this GitHub as a **working studio**:
+
+- Teaching demos & starter code  
+- Student project examples  
+- Curriculum builds & experiments  
+- AI workflows and classroom integrations  
+
+Everything here is built to be **shared, remixed, and improved**.
+
+---
+
+### 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/jskinnerlee](https://www.linkedin.com/in/jskinnerlee/)
+
+---
+
+### ✨ Em Dash
+
+A pause. A shift. A continuation.
+
+> Not just what we build—but how we think while building it.
+
+Thanks for being here.
