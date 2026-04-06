@@ -4,7 +4,7 @@
 
 I’m a community college IT instructor exploring what it means to teach, learn, and lead in an AI-augmented world.
 
-My work lives at the intersection of **technology, education, and human connection**—where AI supports thinking, not replaces it. I design learning experiences that help students not only write code, but understand how to think, build, and adapt in a rapidly changing digital landscape.
+My work lives at the intersection of **technology, education, and human connection**, where AI supports thinking, not replaces it. I design learning experiences that help students not only write code, but understand how to think, build, and adapt in a rapidly changing digital landscape.
 
 Currently pursuing an **EdD in Educational Leadership**, focused on the future of online learning, student engagement, and human-centered design.
 
